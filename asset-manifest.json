@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/lizet96/DesWebInt/static/css/main.f855e6bc.css",
-    "main.js": "/lizet96/DesWebInt/static/js/main.9b09c9e1.js",
+    "main.js": "/lizet96/DesWebInt/static/js/main.1ff82171.js",
     "static/js/453.d6579b24.chunk.js": "/lizet96/DesWebInt/static/js/453.d6579b24.chunk.js",
     "static/media/logo.svg": "/lizet96/DesWebInt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/lizet96/DesWebInt/index.html",
     "main.f855e6bc.css.map": "/lizet96/DesWebInt/static/css/main.f855e6bc.css.map",
-    "main.9b09c9e1.js.map": "/lizet96/DesWebInt/static/js/main.9b09c9e1.js.map",
+    "main.1ff82171.js.map": "/lizet96/DesWebInt/static/js/main.1ff82171.js.map",
     "453.d6579b24.chunk.js.map": "/lizet96/DesWebInt/static/js/453.d6579b24.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.9b09c9e1.js"
+    "static/js/main.1ff82171.js"
   ]
 }
